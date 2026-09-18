@@ -7,8 +7,12 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/_/Scenes/Exterieur.unity
+<<<<<<< HEAD
     guid: d3cef9c49315f6a4f92d114f4324ca75
   - enabled: 1
     path: Assets/_/Scenes/Fin.unity
     guid: ac64d8a4df1f5c64ea7ffa25009d192b
+=======
+    guid: ec7ce9b8e11cadf42ae7f7287a74ad35
+>>>>>>> f6168533040cb13733d95723288b03a73dd49fc5
   m_configObjects: {}
